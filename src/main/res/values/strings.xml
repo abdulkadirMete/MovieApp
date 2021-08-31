@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Aniflex</string>
+    <string name="favorite">Favorilerim</string>
+    <string name="settings">Ayarlar</string>
+    <string name="search">Ara</string>
+    <string name="anime_list">Anime Listesi</string>
+    <string name="contact_me">İletişim</string>
+    <string name="episodes">BÖLÜMLER</string>
+    <string name="saveToast">Kaydedildi.</string>
+    <string name="unsaveToast">Kayıt Kaldırıldı.</string>
+
+    <string name="title_activity_anime_list">AnimeListActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="introdiction">Merhaba Arkadaşlar ilerleyen süreçlerde yeni animeler eklenip uygulama güncel duruma getirilecektir.
+        Her türlü, şikayet,öneri ,hata bildirimi için  e-posta adresinden bana ulaşabilirsiniz.Bağış yapıp destek olmak
+    isteyen arkadaşlar için iban numaram aşağıdadır.Animeleri paylaşmamızı sağlayan fansublara ve çeviri yapan arkadaşlara teşekkür ederim.</string>
+    <string name="eMail"> :  akadirmete@gmail.com</string>
+    <string name="iban"> :  TR330004600792888000056946</string>
+    <string name="name"> :  Abdulkadir METE</string>
+    <string name="bookmark">Kayıtlı anime bilgilerine ulaşılamıyor.</string>
+    <string name="providersNotFound">Video kaynaklarına ulaşılamıyor daha sonra tekrar deneyin</string>
+    <string name="vidoUrlNotFound">Video linki çalışmıyor daha sonra tekrar deneyin.</string>
+    <string name="fansubNotFound">Fansublara ulaşılamıyor daha sonra tekrar deneyin</string>
+    <string name="fansubChoice">Fansub Seçimi</string>
+    <string name="videoProvideChoice">Video Kaynağı Seçimi</string>
+    <string name="videoUrlHasDeleted">Video Kaynağı Silinmiş.</string>
+    <string name="searchResults">Arama Sonuçları</string>
+    <string name="appNameUpper">ANIFLEX</string>
+    <string name="errorNotKnow">Bilinmeyen bir hata oluştu</string>
+    <string name="pleaseWaitSync">Optimize ediliyor, tek seferlik bir işlemdir lütfen bekleyiniz..</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#151c25</color>
+    <color name="colorPrimaryDark">#151c25</color>
+    <color name="colorAccent">#f1b814</color>
+    <color name="colorDarkerGrey">#a9a9a9</color>
+    <color name="colorLightBlue">#add8e6</color>
+    <color name="colorDarkBlue">#182330</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorShadow">#A8A8A8</color>
+    <color name="colorLightGrey">#6D6B6B</color>
+    <color name="colorBlack">#000000</color>
+    <color name="toolbar_red">#aa4029</color>
+    <color name="shutter_bg">#000000</color>
+    <color name="video_player_bg">#000000</color>
+    <color name="colorWatched">#ff7900</color>
+    <color name="colorCard">#303030</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="colorHome">#e72a13</color>
+</resources>
